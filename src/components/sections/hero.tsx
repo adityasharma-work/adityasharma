@@ -30,7 +30,7 @@ const HeroSection = () => {
               <span className="inline-block animate-waving-hand">👋</span>
             </Typography>
             <Typography>
-              With nearly 3 years of experience specializing in the MERN stack,
+              With more than 3.5 years of experience specializing in the MERN stack,
               I create intuitive and scalable web applications. My expertise
               lies in building dynamic user interfaces, integrating third-party
               services, and optimizing application performance. Passionate about
@@ -42,7 +42,7 @@ const HeroSection = () => {
           <div className="flex flex-col gap-2">
             <div className="flex gap-2">
               <MapPin className="stroke-gray-600" />
-              <Typography>Lucknow, India</Typography>
+              <Typography>Mohali, India</Typography>
             </div>
 
             <div className="flex items-center gap-2">

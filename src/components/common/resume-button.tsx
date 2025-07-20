@@ -5,7 +5,7 @@ import { Download } from "lucide-react";
 import Link from "next/link";
 
 const resumeDriveLink =
-  "https://drive.google.com/file/d/17IFXPJht7FSFV4UXUUA9o4yN5HA4-sW5/view?usp=drive_link";
+  "https://drive.google.com/file/d/1EDHDxLEH-2mVm02MUB-dughQURVXwiZ0/view?usp=sharing";
 
 const ResumeButton = () => {
   return (

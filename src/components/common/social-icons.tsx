@@ -6,26 +6,30 @@ import { FiGithub } from "react-icons/fi";
 import { TbBrandLeetcode } from "react-icons/tb";
 import IconButton from "./icon-button";
 import { FaInstagram } from "react-icons/fa";
+import { SiMedium } from "react-icons/si";
 
 export const socialLink = [
-    {
-      icon: <FiGithub />,
-      url: "https://github.com/adityasharma-work",
-    },
-    {
-      icon: <CiLinkedin />,
-      url: "https://www.linkedin.com/in/connect-aditya-sharma/",
-    },
-    {
-      icon: <TbBrandLeetcode />,
-      url: "https://leetcode.com/u/adityasharma4368/",
-    },
-    {
-      icon: <FaInstagram />,
-      url: "https://www.instagram.com/__adi.s__/",
-    },
-  ];
-  
+  {
+    icon: <FiGithub />,
+    url: "https://github.com/adityasharma-work",
+  },
+  {
+    icon: <CiLinkedin />,
+    url: "https://www.linkedin.com/in/connect-aditya-sharma/",
+  },
+  {
+    icon: <TbBrandLeetcode />,
+    url: "https://leetcode.com/u/adityasharma4368/",
+  },
+  {
+    icon: <SiMedium />,
+    url: "https://medium.com/@adityasharma4368",
+  },
+  {
+    icon: <FaInstagram />,
+    url: "https://www.instagram.com/__adi.s__/",
+  },
+];
 
 const SocialIcons = () => {
   return (

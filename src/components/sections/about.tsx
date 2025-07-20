@@ -28,7 +28,7 @@ const AboutMeSection = () => {
           <Typography>
             I believe great web applications are more than just lines of
             code—they’re experiences that connect with people and solve
-            real-world problems. With nearly 3 years of experience specializing
+            real-world problems. With more than 3.5 years of experience specializing
             in the MERN stack, I’ve been building innovative web applications that deliver exceptional user
             experiences.
           </Typography>
@@ -54,7 +54,7 @@ const AboutMeSection = () => {
             <Button className="h-10 w-10">
               <Puzzle className="h-12 w-12" />
             </Button>
-            Certified ReactJS Developer
+            Certified Full Stack Developer
           </div>
           <div className="ml-3 flex gap-4 items-center text-muted-foreground">
             <Button className="h-10 w-10">
